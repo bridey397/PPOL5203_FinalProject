@@ -1,0 +1,16 @@
+---
+title: "Final Paper"
+format: html
+editor: visual
+author: Bridgette Sullivan, Holt Cochran, Katharyn Loweth
+---
+
+### Background
+
+### Data Sources
+
+### Methods
+
+### Results
+
+### Next Steps
