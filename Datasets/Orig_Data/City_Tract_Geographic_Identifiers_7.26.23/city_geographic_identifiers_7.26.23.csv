@@ -1,0 +1,974 @@
+geo_fips,geo_name,geo_level,state_fips,state_abbr,state_name
+0103076,Auburn,city,01,AL,Alabama
+0107000,Birmingham,city,01,AL,Alabama
+0120104,Decatur,city,01,AL,Alabama
+0121184,Dothan,city,01,AL,Alabama
+0135896,Hoover,city,01,AL,Alabama
+0137000,Huntsville,city,01,AL,Alabama
+0145784,Madison,city,01,AL,Alabama
+0150000,Mobile,city,01,AL,Alabama
+0151000,Montgomery,city,01,AL,Alabama
+0177256,Tuscaloosa,city,01,AL,Alabama
+0203000,Anchorage,city,02,AK,Alaska
+0240950,Kodiak,city,02,AK,Alaska
+0404720,Avondale,city,04,AZ,Arizona
+0407940,Buckeye,city,04,AZ,Arizona
+0410530,Casa Grande,city,04,AZ,Arizona
+0412000,Chandler,city,04,AZ,Arizona
+0423620,Flagstaff,city,04,AZ,Arizona
+0427400,Gilbert,city,04,AZ,Arizona
+0427820,Glendale,city,04,AZ,Arizona
+0428380,Goodyear,city,04,AZ,Arizona
+0437620,Kingman,city,04,AZ,Arizona
+0439370,Lake Havasu City,city,04,AZ,Arizona
+0444270,Marana,city,04,AZ,Arizona
+0444410,Maricopa,city,04,AZ,Arizona
+0446000,Mesa,city,04,AZ,Arizona
+0454050,Peoria,city,04,AZ,Arizona
+0455000,Phoenix,city,04,AZ,Arizona
+0458150,Queen Creek,city,04,AZ,Arizona
+0465000,Scottsdale,city,04,AZ,Arizona
+0471510,Surprise,city,04,AZ,Arizona
+0473000,Tempe,city,04,AZ,Arizona
+0477000,Tucson,city,04,AZ,Arizona
+0485540,Yuma,city,04,AZ,Arizona
+0500970,Alma,city,05,AR,Arkansas
+0505320,Bentonville,city,05,AR,Arkansas
+0515190,Conway,city,05,AR,Arkansas
+0523290,Fayetteville,city,05,AR,Arkansas
+0524550,Fort Smith,city,05,AR,Arkansas
+0535710,Jonesboro,city,05,AR,Arkansas
+0541000,Little Rock,city,05,AR,Arkansas
+0550450,North Little Rock,city,05,AR,Arkansas
+0560410,Rogers,city,05,AR,Arkansas
+0566080,Springdale,city,05,AR,Arkansas
+0600562,Alameda,city,06,CA,California
+0600884,Alhambra,city,06,CA,California
+0600947,Aliso Viejo,city,06,CA,California
+0602000,Anaheim,city,06,CA,California
+0602252,Antioch,city,06,CA,California
+0602364,Apple Valley,city,06,CA,California
+0602462,Arcadia,city,06,CA,California
+0603386,Azusa,city,06,CA,California
+0603526,Bakersfield,city,06,CA,California
+0603666,Baldwin Park,city,06,CA,California
+0604758,Beaumont,city,06,CA,California
+0604982,Bellflower,city,06,CA,California
+0606000,Berkeley,city,06,CA,California
+0608142,Brentwood,city,06,CA,California
+0608786,Buena Park,city,06,CA,California
+0608954,Burbank,city,06,CA,California
+0610046,Camarillo,city,06,CA,California
+0611194,Carlsbad,city,06,CA,California
+0611446,Carpinteria,city,06,CA,California
+0611530,Carson,city,06,CA,California
+0612048,Cathedral City,city,06,CA,California
+0612552,Cerritos,city,06,CA,California
+0613014,Chico,city,06,CA,California
+0613210,Chino,city,06,CA,California
+0613214,Chino Hills,city,06,CA,California
+0613392,Chula Vista,city,06,CA,California
+0613588,Citrus Heights,city,06,CA,California
+0614218,Clovis,city,06,CA,California
+0614890,Colton,city,06,CA,California
+0615044,Compton,city,06,CA,California
+0616000,Concord,city,06,CA,California
+0616350,Corona,city,06,CA,California
+0616532,Costa Mesa,city,06,CA,California
+0616742,Covina,city,06,CA,California
+0617610,Cupertino,city,06,CA,California
+0617750,Cypress,city,06,CA,California
+0617918,Daly City,city,06,CA,California
+0618100,Davis,city,06,CA,California
+0618394,Delano,city,06,CA,California
+0619192,Diamond Bar,city,06,CA,California
+0619766,Downey,city,06,CA,California
+0620018,Dublin,city,06,CA,California
+0621230,Eastvale,city,06,CA,California
+0621712,El Cajon,city,06,CA,California
+0622020,Elk Grove,city,06,CA,California
+0622230,El Monte,city,06,CA,California
+0622678,Encinitas,city,06,CA,California
+0622804,Escondido,city,06,CA,California
+0623182,Fairfield,city,06,CA,California
+0624638,Folsom,city,06,CA,California
+0624680,Fontana,city,06,CA,California
+0625380,Fountain Valley,city,06,CA,California
+0626000,Fremont,city,06,CA,California
+0627000,Fresno,city,06,CA,California
+0628000,Fullerton,city,06,CA,California
+0628168,Gardena,city,06,CA,California
+0629000,Garden Grove,city,06,CA,California
+0629504,Gilroy,city,06,CA,California
+0630000,Glendale,city,06,CA,California
+0630014,Glendora,city,06,CA,California
+0631960,Hanford,city,06,CA,California
+0632548,Hawthorne,city,06,CA,California
+0633000,Hayward,city,06,CA,California
+0633182,Hemet,city,06,CA,California
+0633434,Hesperia,city,06,CA,California
+0633588,Highland,city,06,CA,California
+0636000,Huntington Beach,city,06,CA,California
+0636056,Huntington Park,city,06,CA,California
+0636448,Indio,city,06,CA,California
+0636546,Inglewood,city,06,CA,California
+0636770,Irvine,city,06,CA,California
+0637692,Jurupa Valley,city,06,CA,California
+0639248,Laguna Niguel,city,06,CA,California
+0639290,La Habra,city,06,CA,California
+0639486,Lake Elsinore,city,06,CA,California
+0639496,Lake Forest,city,06,CA,California
+0639892,Lakewood,city,06,CA,California
+0640004,La Mesa,city,06,CA,California
+0640130,Lancaster,city,06,CA,California
+0641992,Livermore,city,06,CA,California
+0642202,Lodi,city,06,CA,California
+0642524,Lompoc,city,06,CA,California
+0643000,Long Beach,city,06,CA,California
+0644000,Los Angeles,city,06,CA,California
+0644574,Lynwood,city,06,CA,California
+0645022,Madera,city,06,CA,California
+0645484,Manteca,city,06,CA,California
+0646842,Menifee,city,06,CA,California
+0646898,Merced,city,06,CA,California
+0647766,Milpitas,city,06,CA,California
+0648256,Mission Viejo,city,06,CA,California
+0648354,Modesto,city,06,CA,California
+0648816,Montebello,city,06,CA,California
+0648914,Monterey Park,city,06,CA,California
+0649270,Moreno Valley,city,06,CA,California
+0649670,Mountain View,city,06,CA,California
+0650076,Murrieta,city,06,CA,California
+0650258,Napa,city,06,CA,California
+0650398,National City,city,06,CA,California
+0651182,Newport Beach,city,06,CA,California
+0652526,Norwalk,city,06,CA,California
+0652582,Novato,city,06,CA,California
+0653000,Oakland,city,06,CA,California
+0653322,Oceanside,city,06,CA,California
+0653896,Ontario,city,06,CA,California
+0653980,Orange,city,06,CA,California
+0654652,Oxnard,city,06,CA,California
+0655156,Palmdale,city,06,CA,California
+0655184,Palm Desert,city,06,CA,California
+0655282,Palo Alto,city,06,CA,California
+0655618,Paramount,city,06,CA,California
+0656000,Pasadena,city,06,CA,California
+0656700,Perris,city,06,CA,California
+0656784,Petaluma,city,06,CA,California
+0656924,Pico Rivera,city,06,CA,California
+0657456,Pittsburg,city,06,CA,California
+0657526,Placentia,city,06,CA,California
+0657792,Pleasanton,city,06,CA,California
+0658072,Pomona,city,06,CA,California
+0658240,Porterville,city,06,CA,California
+0659444,Rancho Cordova,city,06,CA,California
+0659451,Rancho Cucamonga,city,06,CA,California
+0659920,Redding,city,06,CA,California
+0659962,Redlands,city,06,CA,California
+0660018,Redondo Beach,city,06,CA,California
+0660102,Redwood City,city,06,CA,California
+0660466,Rialto,city,06,CA,California
+0660620,Richmond,city,06,CA,California
+0662000,Riverside,city,06,CA,California
+0662364,Rocklin,city,06,CA,California
+0662896,Rosemead,city,06,CA,California
+0662938,Roseville,city,06,CA,California
+0664000,Sacramento,city,06,CA,California
+0664224,Salinas,city,06,CA,California
+0665000,San Bernardino,city,06,CA,California
+0665042,San Buenaventura (Ventura),city,06,CA,California
+0665084,San Clemente,city,06,CA,California
+0666000,San Diego,city,06,CA,California
+0667000,San Francisco,city,06,CA,California
+0667112,San Jacinto,city,06,CA,California
+0668000,San Jose,city,06,CA,California
+0668084,San Leandro,city,06,CA,California
+0668196,San Marcos,city,06,CA,California
+0668252,San Mateo,city,06,CA,California
+0668364,San Rafael,city,06,CA,California
+0668378,San Ramon,city,06,CA,California
+0669000,Santa Ana,city,06,CA,California
+0669070,Santa Barbara,city,06,CA,California
+0669084,Santa Clara,city,06,CA,California
+0669088,Santa Clarita,city,06,CA,California
+0669112,Santa Cruz,city,06,CA,California
+0669196,Santa Maria,city,06,CA,California
+0670000,Santa Monica,city,06,CA,California
+0670098,Santa Rosa,city,06,CA,California
+0670224,Santee,city,06,CA,California
+0672016,Simi Valley,city,06,CA,California
+0673080,South Gate,city,06,CA,California
+0673262,South San Francisco,city,06,CA,California
+0675000,Stockton,city,06,CA,California
+0677000,Sunnyvale,city,06,CA,California
+0678120,Temecula,city,06,CA,California
+0678582,Thousand Oaks,city,06,CA,California
+0680000,Torrance,city,06,CA,California
+0680238,Tracy,city,06,CA,California
+0680644,Tulare,city,06,CA,California
+0680812,Turlock,city,06,CA,California
+0680854,Tustin,city,06,CA,California
+0681204,Union City,city,06,CA,California
+0681344,Upland,city,06,CA,California
+0681554,Vacaville,city,06,CA,California
+0681666,Vallejo,city,06,CA,California
+0682590,Victorville,city,06,CA,California
+0682954,Visalia,city,06,CA,California
+0682996,Vista,city,06,CA,California
+0683346,Walnut Creek,city,06,CA,California
+0683668,Watsonville,city,06,CA,California
+0684200,West Covina,city,06,CA,California
+0684550,Westminster,city,06,CA,California
+0684816,West Sacramento,city,06,CA,California
+0685292,Whittier,city,06,CA,California
+0686328,Woodland,city,06,CA,California
+0686832,Yorba Linda,city,06,CA,California
+0686972,Yuba City,city,06,CA,California
+0687042,Yucaipa,city,06,CA,California
+0803455,Arvada,city,08,CO,Colorado
+0804000,Aurora,city,08,CO,Colorado
+0807850,Boulder,city,08,CO,Colorado
+0809280,Broomfield,city,08,CO,Colorado
+0812415,Castle Rock,city,08,CO,Colorado
+0812815,Centennial,city,08,CO,Colorado
+0816000,Colorado Springs,city,08,CO,Colorado
+0816495,Commerce City,city,08,CO,Colorado
+0820000,Denver,city,08,CO,Colorado
+0827425,Fort Collins,city,08,CO,Colorado
+0831660,Grand Junction,city,08,CO,Colorado
+0832155,Greeley,city,08,CO,Colorado
+0843000,Lakewood,city,08,CO,Colorado
+0845970,Longmont,city,08,CO,Colorado
+0846465,Loveland,city,08,CO,Colorado
+0857630,Parker,city,08,CO,Colorado
+0862000,Pueblo,city,08,CO,Colorado
+0877290,Thornton,city,08,CO,Colorado
+0883835,Westminster,city,08,CO,Colorado
+0908000,Bridgeport,city,09,CT,Connecticut
+0908420,Bristol,city,09,CT,Connecticut
+0918430,Danbury,city,09,CT,Connecticut
+0937000,Hartford,city,09,CT,Connecticut
+0946450,Meriden,city,09,CT,Connecticut
+0947515,Milford,city,09,CT,Connecticut
+0950370,New Britain,city,09,CT,Connecticut
+0952000,New Haven,city,09,CT,Connecticut
+0955990,Norwalk,city,09,CT,Connecticut
+0973000,Stamford,city,09,CT,Connecticut
+0976500,Torrington,city,09,CT,Connecticut
+0980000,Waterbury,city,09,CT,Connecticut
+0982800,West Haven,city,09,CT,Connecticut
+1077580,Wilmington,city,10,DE,Delaware
+1150000,Washington,city,11,DC,District of Columbia
+1201700,Apopka,city,12,FL,Florida
+1207300,Boca Raton,city,12,FL,Florida
+1207525,Bonita Springs,city,12,FL,Florida
+1207875,Boynton Beach,city,12,FL,Florida
+1207950,Bradenton,city,12,FL,Florida
+1210275,Cape Coral,city,12,FL,Florida
+1212875,Clearwater,city,12,FL,Florida
+1213275,Coconut Creek,city,12,FL,Florida
+1214250,Coral Gables,city,12,FL,Florida
+1214400,Coral Springs,city,12,FL,Florida
+1216475,Davie,city,12,FL,Florida
+1216525,Daytona Beach,city,12,FL,Florida
+1216725,Deerfield Beach,city,12,FL,Florida
+1216875,DeLand,city,12,FL,Florida
+1217100,Delray Beach,city,12,FL,Florida
+1217200,Deltona,city,12,FL,Florida
+1217935,Doral,city,12,FL,Florida
+1224000,Fort Lauderdale,city,12,FL,Florida
+1224125,Fort Myers,city,12,FL,Florida
+1225175,Gainesville,city,12,FL,Florida
+1230000,Hialeah,city,12,FL,Florida
+1232000,Hollywood,city,12,FL,Florida
+1232275,Homestead,city,12,FL,Florida
+1235000,Jacksonville,city,12,FL,Florida
+1235875,Jupiter,city,12,FL,Florida
+1236950,Kissimmee,city,12,FL,Florida
+1238250,Lakeland,city,12,FL,Florida
+1239425,Largo,city,12,FL,Florida
+1239550,Lauderhill,city,12,FL,Florida
+1243125,Margate,city,12,FL,Florida
+1243975,Melbourne,city,12,FL,Florida
+1245000,Miami,city,12,FL,Florida
+1245025,Miami Beach,city,12,FL,Florida
+1245060,Miami Gardens,city,12,FL,Florida
+1245975,Miramar,city,12,FL,Florida
+1249450,North Miami,city,12,FL,Florida
+1249675,North Port,city,12,FL,Florida
+1250750,Ocala,city,12,FL,Florida
+1253000,Orlando,city,12,FL,Florida
+1254000,Palm Bay,city,12,FL,Florida
+1254075,Palm Beach Gardens,city,12,FL,Florida
+1254200,Palm Coast,city,12,FL,Florida
+1255775,Pembroke Pines,city,12,FL,Florida
+1255925,Pensacola,city,12,FL,Florida
+1256975,Pinellas Park,city,12,FL,Florida
+1257425,Plantation,city,12,FL,Florida
+1258050,Pompano Beach,city,12,FL,Florida
+1258575,Port Orange,city,12,FL,Florida
+1258715,Port St. Lucie,city,12,FL,Florida
+1262625,St. Cloud,city,12,FL,Florida
+1263000,St. Petersburg,city,12,FL,Florida
+1263650,Sanford,city,12,FL,Florida
+1264175,Sarasota,city,12,FL,Florida
+1269700,Sunrise,city,12,FL,Florida
+1270600,Tallahassee,city,12,FL,Florida
+1270675,Tamarac,city,12,FL,Florida
+1271000,Tampa,city,12,FL,Florida
+1275812,Wellington,city,12,FL,Florida
+1276582,Weston,city,12,FL,Florida
+1276600,West Palm Beach,city,12,FL,Florida
+1301052,Albany,city,13,GA,Georgia
+1301696,Alpharetta,city,13,GA,Georgia
+1303440,Athens,city,13,GA,Georgia
+1304000,Atlanta,city,13,GA,Georgia
+1304204,Augusta,city,13,GA,Georgia
+1310944,Brookhaven,city,13,GA,Georgia
+1319000,Columbus,city,13,GA,Georgia
+1322052,Decatur,city,13,GA,Georgia
+1324768,Dunwoody,city,13,GA,Georgia
+1325720,East Point,city,13,GA,Georgia
+1342425,Johns Creek,city,13,GA,Georgia
+1349008,Macon,city,13,GA,Georgia
+1349756,Marietta,city,13,GA,Georgia
+1367284,Roswell,city,13,GA,Georgia
+1368516,Sandy Springs,city,13,GA,Georgia
+1369000,Savannah,city,13,GA,Georgia
+1371492,Smyrna,city,13,GA,Georgia
+1372122,South Fulton,city,13,GA,Georgia
+1373784,Stonecrest,city,13,GA,Georgia
+1378800,Valdosta,city,13,GA,Georgia
+1380508,Warner Robins,city,13,GA,Georgia
+0015003,Honolulu,city,15,HI,Hawaii
+1608830,Boise City,city,16,ID,Idaho
+1612250,Caldwell,city,16,ID,Idaho
+1616750,Coeur d'Alene,city,16,ID,Idaho
+1639700,Idaho Falls,city,16,ID,Idaho
+1646540,Lewiston,city,16,ID,Idaho
+1652120,Meridian,city,16,ID,Idaho
+1656260,Nampa,city,16,ID,Idaho
+1664090,Pocatello,city,16,ID,Idaho
+1667420,Rexburg,city,16,ID,Idaho
+1682810,Twin Falls,city,16,ID,Idaho
+1702154,Arlington Heights,city,17,IL,Illinois
+1703012,Aurora,city,17,IL,Illinois
+1705573,Berwyn,city,17,IL,Illinois
+1706613,Bloomington,city,17,IL,Illinois
+1707133,Bolingbrook,city,17,IL,Illinois
+1712385,Champaign,city,17,IL,Illinois
+1714000,Chicago,city,17,IL,Illinois
+1714351,Cicero,city,17,IL,Illinois
+1718823,Decatur,city,17,IL,Illinois
+1719642,Des Plaines,city,17,IL,Illinois
+1720591,Downers Grove,city,17,IL,Illinois
+1723074,Elgin,city,17,IL,Illinois
+1724582,Evanston,city,17,IL,Illinois
+1735411,Hoffman Estates,city,17,IL,Illinois
+1738570,Joliet,city,17,IL,Illinois
+1751089,Mount Prospect,city,17,IL,Illinois
+1751622,Naperville,city,17,IL,Illinois
+1753234,Normal,city,17,IL,Illinois
+1754820,Oak Lawn,city,17,IL,Illinois
+1754885,Oak Park,city,17,IL,Illinois
+1756640,Orland Park,city,17,IL,Illinois
+1757225,Palatine,city,17,IL,Illinois
+1759000,Peoria,city,17,IL,Illinois
+1765000,Rockford,city,17,IL,Illinois
+1768003,Schaumburg,city,17,IL,Illinois
+1770122,Skokie,city,17,IL,Illinois
+1772000,Springfield,city,17,IL,Illinois
+1775484,Tinley Park,city,17,IL,Illinois
+1779293,Waukegan,city,17,IL,Illinois
+1781048,Wheaton,city,17,IL,Illinois
+1801468,Anderson,city,18,IN,Indiana
+1805860,Bloomington,city,18,IN,Indiana
+1810342,Carmel,city,18,IN,Indiana
+1814734,Columbus,city,18,IN,Indiana
+1820728,Elkhart,city,18,IN,Indiana
+1822000,Evansville,city,18,IN,Indiana
+1823278,Fishers,city,18,IN,Indiana
+1825000,Fort Wayne,city,18,IN,Indiana
+1827000,Gary,city,18,IN,Indiana
+1829898,Greenwood,city,18,IN,Indiana
+1831000,Hammond,city,18,IN,Indiana
+1836003,Indianapolis,city,18,IN,Indiana
+1840392,Kokomo,city,18,IN,Indiana
+1840788,Lafayette,city,18,IN,Indiana
+1843434,Liberty,city,18,IN,Indiana
+1849932,Mishawaka,city,18,IN,Indiana
+1851876,Muncie,city,18,IN,Indiana
+1854180,Noblesville,city,18,IN,Indiana
+1864260,Richmond,city,18,IN,Indiana
+1871000,South Bend,city,18,IN,Indiana
+1875428,Terre Haute,city,18,IN,Indiana
+1886372,Zionsville,city,18,IN,Indiana
+1901855,Ames,city,19,IA,Iowa
+1902305,Ankeny,city,19,IA,Iowa
+1912000,Cedar Rapids,city,19,IA,Iowa
+1916860,Council Bluffs,city,19,IA,Iowa
+1919000,Davenport,city,19,IA,Iowa
+1921000,Des Moines,city,19,IA,Iowa
+1922395,Dubuque,city,19,IA,Iowa
+1938595,Iowa City,city,19,IA,Iowa
+1950160,Mason City,city,19,IA,Iowa
+1973335,Sioux City,city,19,IA,Iowa
+1982425,Waterloo,city,19,IA,Iowa
+1983910,West Des Moines,city,19,IA,Iowa
+2036000,Kansas City,city,20,KS,Kansas
+2038900,Lawrence,city,20,KS,Kansas
+2039350,Lenexa,city,20,KS,Kansas
+2044250,Manhattan,city,20,KS,Kansas
+2052575,Olathe,city,20,KS,Kansas
+2053775,Overland Park,city,20,KS,Kansas
+2064500,Shawnee,city,20,KS,Kansas
+2071000,Topeka,city,20,KS,Kansas
+2079000,Wichita,city,20,KS,Kansas
+2108902,Bowling Green,city,21,KY,Kentucky
+2146027,Lexington,city,21,KY,Kentucky
+2148006,Louisville,city,21,KY,Kentucky
+2158620,Owensboro,city,21,KY,Kentucky
+2205000,Baton Rouge,city,22,LA,Louisiana
+2208920,Bossier City,city,22,LA,Louisiana
+2239475,Kenner,city,22,LA,Louisiana
+2240735,Lafayette,city,22,LA,Louisiana
+2241155,Lake Charles,city,22,LA,Louisiana
+2255000,New Orleans,city,22,LA,Louisiana
+2270000,Shreveport,city,22,LA,Louisiana
+2323200,Ellsworth,city,23,ME,Maine
+2360545,Portland,city,23,ME,Maine
+2404000,Baltimore,city,24,MD,Maryland
+2408775,Bowie,city,24,MD,Maryland
+2430325,Frederick,city,24,MD,Maryland
+2431175,Gaithersburg,city,24,MD,Maryland
+2467675,Rockville,city,24,MD,Maryland
+2507000,Boston,city,25,MA,Massachusetts
+2509000,Brockton,city,25,MA,Massachusetts
+2511000,Cambridge,city,25,MA,Massachusetts
+2513660,Chicopee,city,25,MA,Massachusetts
+2523000,Fall River,city,25,MA,Massachusetts
+2524960,Framingham,city,25,MA,Massachusetts
+2529405,Haverhill,city,25,MA,Massachusetts
+2534550,Lawrence,city,25,MA,Massachusetts
+2537000,Lowell,city,25,MA,Massachusetts
+2537490,Lynn,city,25,MA,Massachusetts
+2537875,Malden,city,25,MA,Massachusetts
+2539835,Medford,city,25,MA,Massachusetts
+2540710,Methuen Town,city,25,MA,Massachusetts
+2545000,New Bedford,city,25,MA,Massachusetts
+2545245,Newburyport,city,25,MA,Massachusetts
+2545560,Newton,city,25,MA,Massachusetts
+2552490,Peabody,city,25,MA,Massachusetts
+2555745,Quincy,city,25,MA,Massachusetts
+2556585,Revere,city,25,MA,Massachusetts
+2562535,Somerville,city,25,MA,Massachusetts
+2567000,Springfield,city,25,MA,Massachusetts
+2569170,Taunton,city,25,MA,Massachusetts
+2572600,Waltham,city,25,MA,Massachusetts
+2578972,Weymouth Town,city,25,MA,Massachusetts
+2582000,Worcester,city,25,MA,Massachusetts
+2600980,Albion,city,26,MI,Michigan
+2603000,Ann Arbor,city,26,MI,Michigan
+2605920,Battle Creek,city,26,MI,Michigan
+2621000,Dearborn,city,26,MI,Michigan
+2621020,Dearborn Heights,city,26,MI,Michigan
+2622000,Detroit,city,26,MI,Michigan
+2627440,Farmington Hills,city,26,MI,Michigan
+2629000,Flint,city,26,MI,Michigan
+2634000,Grand Rapids,city,26,MI,Michigan
+2642160,Kalamazoo,city,26,MI,Michigan
+2642820,Kentwood,city,26,MI,Michigan
+2646000,Lansing,city,26,MI,Michigan
+2649000,Livonia,city,26,MI,Michigan
+2659440,Novi,city,26,MI,Michigan
+2662980,Paw Paw,city,26,MI,Michigan
+2665440,Pontiac,city,26,MI,Michigan
+2669035,Rochester Hills,city,26,MI,Michigan
+2670040,Royal Oak,city,26,MI,Michigan
+2670760,St. Clair Shores,city,26,MI,Michigan
+2674900,Southfield,city,26,MI,Michigan
+2674980,South Haven,city,26,MI,Michigan
+2676460,Sterling Heights,city,26,MI,Michigan
+2679000,Taylor,city,26,MI,Michigan
+2680700,Troy,city,26,MI,Michigan
+2684000,Warren,city,26,MI,Michigan
+2686000,Westland,city,26,MI,Michigan
+2688940,Wyoming,city,26,MI,Michigan
+2701900,Apple Valley,city,27,MN,Minnesota
+2706382,Blaine,city,27,MN,Minnesota
+2706616,Bloomington,city,27,MN,Minnesota
+2707966,Brooklyn Park,city,27,MN,Minnesota
+2708794,Burnsville,city,27,MN,Minnesota
+2713114,Coon Rapids,city,27,MN,Minnesota
+2717000,Duluth,city,27,MN,Minnesota
+2717288,Eagan,city,27,MN,Minnesota
+2718116,Eden Prairie,city,27,MN,Minnesota
+2718188,Edina,city,27,MN,Minnesota
+2735180,Lakeville,city,27,MN,Minnesota
+2740166,Maple Grove,city,27,MN,Minnesota
+2743000,Minneapolis,city,27,MN,Minnesota
+2743252,Minnetonka,city,27,MN,Minnesota
+2751730,Plymouth,city,27,MN,Minnesota
+2754880,Rochester,city,27,MN,Minnesota
+2756896,St. Cloud,city,27,MN,Minnesota
+2757220,St. Louis Park,city,27,MN,Minnesota
+2758000,St. Paul,city,27,MN,Minnesota
+2771428,Woodbury,city,27,MN,Minnesota
+2829700,Gulfport,city,28,MS,Mississippi
+2836000,Jackson,city,28,MS,Mississippi
+2869280,Southaven,city,28,MS,Mississippi
+2906652,Blue Springs,city,29,MO,Missouri
+2915670,Columbia,city,29,MO,Missouri
+2924778,Florissant,city,29,MO,Missouri
+2935000,Independence,city,29,MO,Missouri
+2937592,Joplin,city,29,MO,Missouri
+2938000,Kansas City,city,29,MO,Missouri
+2941348,Lee's Summit,city,29,MO,Missouri
+2954074,O'Fallon,city,29,MO,Missouri
+2964082,St. Charles,city,29,MO,Missouri
+2964550,St. Joseph,city,29,MO,Missouri
+2965000,St. Louis,city,29,MO,Missouri
+2965126,St. Peters,city,29,MO,Missouri
+2970000,Springfield,city,29,MO,Missouri
+3006550,Billings,city,30,MT,Montana
+3008950,Bozeman,city,30,MT,Montana
+3032800,Great Falls,city,30,MT,Montana
+3050200,Missoula,city,30,MT,Montana
+3103950,Bellevue,city,31,NE,Nebraska
+3119595,Grand Island,city,31,NE,Nebraska
+3125055,Kearney,city,31,NE,Nebraska
+3128000,Lincoln,city,31,NE,Nebraska
+3137000,Omaha,city,31,NE,Nebraska
+3209700,Carson City,city,32,NV,Nevada
+3231900,Henderson,city,32,NV,Nevada
+3240000,Las Vegas,city,32,NV,Nevada
+3251800,North Las Vegas,city,32,NV,Nevada
+3260600,Reno,city,32,NV,Nevada
+3268400,Sparks,city,32,NV,Nevada
+3345140,Manchester,city,33,NH,New Hampshire
+3350260,Nashua,city,33,NH,New Hampshire
+3401960,Asbury Park,city,34,NJ,New Jersey
+3402080,Atlantic City,city,34,NJ,New Jersey
+3403580,Bayonne,city,34,NJ,New Jersey
+3406790,Bound Brook,city,34,NJ,New Jersey
+3408920,Burlington,city,34,NJ,New Jersey
+3410000,Camden,city,34,NJ,New Jersey
+3412100,Chatham,city,34,NJ,New Jersey
+3413360,Clayton,city,34,NJ,New Jersey
+3413690,Clifton,city,34,NJ,New Jersey
+3419390,East Orange,city,34,NJ,New Jersey
+3420350,Egg Harbor City,city,34,NJ,New Jersey
+3421000,Elizabeth,city,34,NJ,New Jersey
+3421480,Englewood,city,34,NJ,New Jersey
+3422470,Fair Lawn,city,34,NJ,New Jersey
+3422860,Fanwood,city,34,NJ,New Jersey
+3424990,Franklin Lakes,city,34,NJ,New Jersey
+3425200,Freehold,city,34,NJ,New Jersey
+3425800,Garwood,city,34,NJ,New Jersey
+3426340,Glassboro,city,34,NJ,New Jersey
+3428680,Hackensack,city,34,NJ,New Jersey
+3429430,Hammonton,city,34,NJ,New Jersey
+3431500,Highlands,city,34,NJ,New Jersey
+3432250,Hoboken,city,34,NJ,New Jersey
+3436000,Jersey City,city,34,NJ,New Jersey
+3439420,Lawnside,city,34,NJ,New Jersey
+3440350,Linden,city,34,NJ,New Jersey
+3441310,Long Branch,city,34,NJ,New Jersey
+3446680,Millville,city,34,NJ,New Jersey
+3448510,Mountainside,city,34,NJ,New Jersey
+3451000,Newark,city,34,NJ,New Jersey
+3451210,New Brunswick,city,34,NJ,New Jersey
+3451810,New Providence,city,34,NJ,New Jersey
+3455950,Paramus,city,34,NJ,New Jersey
+3456550,Passaic,city,34,NJ,New Jersey
+3457000,Paterson,city,34,NJ,New Jersey
+3457750,Penns Grove,city,34,NJ,New Jersey
+3458200,Perth Amboy,city,34,NJ,New Jersey
+3459190,Plainfield,city,34,NJ,New Jersey
+3459640,Pleasantville,city,34,NJ,New Jersey
+3460900,Princeton,city,34,NJ,New Jersey
+3463000,Ridgewood,city,34,NJ,New Jersey
+3464620,Roselle,city,34,NJ,New Jersey
+3464650,Roselle Park,city,34,NJ,New Jersey
+3465490,Salem,city,34,NJ,New Jersey
+3468730,South Bound Brook,city,34,NJ,New Jersey
+3471430,Summit,city,34,NJ,New Jersey
+3474000,Trenton,city,34,NJ,New Jersey
+3474630,Union City,city,34,NJ,New Jersey
+3476070,Vineland,city,34,NJ,New Jersey
+3479040,Westfield,city,34,NJ,New Jersey
+3479610,West New York,city,34,NJ,New Jersey
+3481200,Wildwood Crest,city,34,NJ,New Jersey
+3502000,Albuquerque,city,35,NM,New Mexico
+3539380,Las Cruces,city,35,NM,New Mexico
+3563460,Rio Rancho,city,35,NM,New Mexico
+3570500,Santa Fe,city,35,NM,New Mexico
+3601000,Albany,city,36,NY,New York
+3611000,Buffalo,city,36,NY,New York
+3633139,Hempstead Village,city,36,NY,New York
+3635969,Hudson,city,36,NY,New York
+3649121,Mount Vernon,city,36,NY,New York
+3650617,New Rochelle,city,36,NY,New York
+3651000,New York,city,36,NY,New York
+3663000,Rochester,city,36,NY,New York
+3665508,Schenectady,city,36,NY,New York
+3673000,Syracuse,city,36,NY,New York
+3675484,Troy,city,36,NY,New York
+3676540,Utica,city,36,NY,New York
+3681677,White Plains,city,36,NY,New York
+3684000,Yonkers,city,36,NY,New York
+3701520,Apex,city,37,NC,North Carolina
+3702140,Asheville,city,37,NC,North Carolina
+3709060,Burlington,city,37,NC,North Carolina
+3710740,Cary,city,37,NC,North Carolina
+3711800,Chapel Hill,city,37,NC,North Carolina
+3712000,Charlotte,city,37,NC,North Carolina
+3714100,Concord,city,37,NC,North Carolina
+3719000,Durham,city,37,NC,North Carolina
+3722920,Fayetteville,city,37,NC,North Carolina
+3725580,Gastonia,city,37,NC,North Carolina
+3728000,Greensboro,city,37,NC,North Carolina
+3728080,Greenville,city,37,NC,North Carolina
+3731400,High Point,city,37,NC,North Carolina
+3733120,Huntersville,city,37,NC,North Carolina
+3734200,Jacksonville,city,37,NC,North Carolina
+3735200,Kannapolis,city,37,NC,North Carolina
+3744220,Mooresville,city,37,NC,North Carolina
+3755000,Raleigh,city,37,NC,North Carolina
+3757500,Rocky Mount,city,37,NC,North Carolina
+3774440,Wilmington,city,37,NC,North Carolina
+3775000,Winston-Salem,city,37,NC,North Carolina
+3807200,Bismarck,city,38,ND,North Dakota
+3825700,Fargo,city,38,ND,North Dakota
+3832060,Grand Forks,city,38,ND,North Dakota
+3901000,Akron,city,39,OH,Ohio
+3902736,Athens,city,39,OH,Ohio
+3905424,Belpre,city,39,OH,Ohio
+3912000,Canton,city,39,OH,Ohio
+3914184,Chillicothe,city,39,OH,Ohio
+3915000,Cincinnati,city,39,OH,Ohio
+3916000,Cleveland,city,39,OH,Ohio
+3918000,Columbus,city,39,OH,Ohio
+3919778,Cuyahoga Falls,city,39,OH,Ohio
+3921000,Dayton,city,39,OH,Ohio
+3925256,Elyria,city,39,OH,Ohio
+3927048,Findlay,city,39,OH,Ohio
+3933012,Hamilton,city,39,OH,Ohio
+3940040,Kettering,city,39,OH,Ohio
+3941664,Lakewood,city,39,OH,Ohio
+3944856,Lorain,city,39,OH,Ohio
+3947628,Marietta,city,39,OH,Ohio
+3949840,Middletown,city,39,OH,Ohio
+3961000,Parma,city,39,OH,Ohio
+3964150,Port Clinton,city,39,OH,Ohio
+3974118,Springfield,city,39,OH,Ohio
+3977000,Toledo,city,39,OH,Ohio
+3980892,Warren,city,39,OH,Ohio
+3988000,Youngstown,city,39,OH,Ohio
+4009050,Broken Arrow,city,40,OK,Oklahoma
+4013950,Chickasha,city,40,OK,Oklahoma
+4023200,Edmond,city,40,OK,Oklahoma
+4023950,Enid,city,40,OK,Oklahoma
+4041850,Lawton,city,40,OK,Oklahoma
+4048350,Midwest City,city,40,OK,Oklahoma
+4049200,Moore,city,40,OK,Oklahoma
+4052500,Norman,city,40,OK,Oklahoma
+4055000,Oklahoma City,city,40,OK,Oklahoma
+4060350,Poteau,city,40,OK,Oklahoma
+4075000,Tulsa,city,40,OK,Oklahoma
+4101000,Albany,city,41,OR,Oregon
+4105350,Beaverton,city,41,OR,Oregon
+4105800,Bend,city,41,OR,Oregon
+4115800,Corvallis,city,41,OR,Oregon
+4123850,Eugene,city,41,OR,Oregon
+4131250,Gresham,city,41,OR,Oregon
+4134100,Hillsboro,city,41,OR,Oregon
+4147000,Medford,city,41,OR,Oregon
+4159000,Portland,city,41,OR,Oregon
+4163650,Roseburg,city,41,OR,Oregon
+4164900,Salem,city,41,OR,Oregon
+4169600,Springfield,city,41,OR,Oregon
+4173650,Tigard,city,41,OR,Oregon
+4178900,Warrenton,city,41,OR,Oregon
+4202000,Allentown,city,42,PA,Pennsylvania
+4206088,Bethlehem,city,42,PA,Pennsylvania
+4224000,Erie,city,42,PA,Pennsylvania
+4232800,Harrisburg,city,42,PA,Pennsylvania
+4241216,Lancaster,city,42,PA,Pennsylvania
+4260000,Philadelphia,city,42,PA,Pennsylvania
+4261000,Pittsburgh,city,42,PA,Pennsylvania
+4263624,Reading,city,42,PA,Pennsylvania
+4269000,Scranton,city,42,PA,Pennsylvania
+4419180,Cranston,city,44,RI,Rhode Island
+4454640,Pawtucket,city,44,RI,Rhode Island
+4459000,Providence,city,44,RI,Rhode Island
+4474300,Warwick,city,44,RI,Rhode Island
+4513330,Charleston,city,45,SC,South Carolina
+4516000,Columbia,city,45,SC,South Carolina
+4525810,Florence,city,45,SC,South Carolina
+4530850,Greenville,city,45,SC,South Carolina
+4530985,Greer,city,45,SC,South Carolina
+4548535,Mount Pleasant,city,45,SC,South Carolina
+4550875,North Charleston,city,45,SC,South Carolina
+4561405,Rock Hill,city,45,SC,South Carolina
+4568290,Spartanburg,city,45,SC,South Carolina
+4570270,Summerville,city,45,SC,South Carolina
+4579090,Woodruff,city,45,SC,South Carolina
+4652980,Rapid City,city,46,SD,South Dakota
+4659020,Sioux Falls,city,46,SD,South Dakota
+4703440,Bartlett,city,47,TN,Tennessee
+4714000,Chattanooga,city,47,TN,Tennessee
+4715160,Clarksville,city,47,TN,Tennessee
+4716420,Collierville,city,47,TN,Tennessee
+4727740,Franklin,city,47,TN,Tennessee
+4733280,Hendersonville,city,47,TN,Tennessee
+4737640,Jackson,city,47,TN,Tennessee
+4738320,Johnson City,city,47,TN,Tennessee
+4739560,Kingsport,city,47,TN,Tennessee
+4740000,Knoxville,city,47,TN,Tennessee
+4748000,Memphis,city,47,TN,Tennessee
+4751560,Murfreesboro,city,47,TN,Tennessee
+4752006,Nashville,city,47,TN,Tennessee
+4764820,Rogersville,city,47,TN,Tennessee
+4769420,Smyrna,city,47,TN,Tennessee
+4770580,Spring Hill,city,47,TN,Tennessee
+4801000,Abilene,city,48,TX,Texas
+4801924,Allen,city,48,TX,Texas
+4803000,Amarillo,city,48,TX,Texas
+4804000,Arlington,city,48,TX,Texas
+4805000,Austin,city,48,TX,Texas
+4806128,Baytown,city,48,TX,Texas
+4807000,Beaumont,city,48,TX,Texas
+4810768,Brownsville,city,48,TX,Texas
+4810912,Bryan,city,48,TX,Texas
+4813024,Carrollton,city,48,TX,Texas
+4813552,Cedar Park,city,48,TX,Texas
+4815976,College Station,city,48,TX,Texas
+4816432,Conroe,city,48,TX,Texas
+4817000,Corpus Christi,city,48,TX,Texas
+4819000,Dallas,city,48,TX,Texas
+4819972,Denton,city,48,TX,Texas
+4820092,DeSoto,city,48,TX,Texas
+4822660,Edinburg,city,48,TX,Texas
+4824000,El Paso,city,48,TX,Texas
+4824768,Euless,city,48,TX,Texas
+4826232,Flower Mound,city,48,TX,Texas
+4827000,Fort Worth,city,48,TX,Texas
+4827684,Frisco,city,48,TX,Texas
+4828068,Galveston,city,48,TX,Texas
+4829000,Garland,city,48,TX,Texas
+4829336,Georgetown,city,48,TX,Texas
+4830464,Grand Prairie,city,48,TX,Texas
+4830644,Grapevine,city,48,TX,Texas
+4832372,Harlingen,city,48,TX,Texas
+4835000,Houston,city,48,TX,Texas
+4837000,Irving,city,48,TX,Texas
+4839148,Killeen,city,48,TX,Texas
+4841464,Laredo,city,48,TX,Texas
+4841980,League City,city,48,TX,Texas
+4842016,Leander,city,48,TX,Texas
+4842508,Lewisville,city,48,TX,Texas
+4843888,Longview,city,48,TX,Texas
+4845000,Lubbock,city,48,TX,Texas
+4845384,McAllen,city,48,TX,Texas
+4845744,McKinney,city,48,TX,Texas
+4846452,Mansfield,city,48,TX,Texas
+4847892,Mesquite,city,48,TX,Texas
+4848072,Midland,city,48,TX,Texas
+4848768,Mission,city,48,TX,Texas
+4848804,Missouri City,city,48,TX,Texas
+4850256,Nacogdoches,city,48,TX,Texas
+4850820,New Braunfels,city,48,TX,Texas
+4852356,North Richland Hills,city,48,TX,Texas
+4853388,Odessa,city,48,TX,Texas
+4856000,Pasadena,city,48,TX,Texas
+4856348,Pearland,city,48,TX,Texas
+4857176,Pflugerville,city,48,TX,Texas
+4857200,Pharr,city,48,TX,Texas
+4858016,Plano,city,48,TX,Texas
+4858820,Port Arthur,city,48,TX,Texas
+4861796,Richardson,city,48,TX,Texas
+4863500,Round Rock,city,48,TX,Texas
+4863572,Rowlett,city,48,TX,Texas
+4864472,San Angelo,city,48,TX,Texas
+4865000,San Antonio,city,48,TX,Texas
+4865600,San Marcos,city,48,TX,Texas
+4870808,Sugar Land,city,48,TX,Texas
+4872176,Temple,city,48,TX,Texas
+4872392,Texas City,city,48,TX,Texas
+4874144,Tyler,city,48,TX,Texas
+4875428,Victoria,city,48,TX,Texas
+4876000,Waco,city,48,TX,Texas
+4879000,Wichita Falls,city,48,TX,Texas
+4880356,Wylie,city,48,TX,Texas
+4920120,Draper,city,49,UT,Utah
+4934970,Herriman,city,49,UT,Utah
+4943660,Layton,city,49,UT,Utah
+4944320,Lehi,city,49,UT,Utah
+4945860,Logan,city,49,UT,Utah
+4950150,Millcreek,city,49,UT,Utah
+4953230,Murray,city,49,UT,Utah
+4955980,Ogden,city,49,UT,Utah
+4957300,Orem,city,49,UT,Utah
+4962470,Provo,city,49,UT,Utah
+4965330,St. George,city,49,UT,Utah
+4967000,Salt Lake City,city,49,UT,Utah
+4967440,Sandy,city,49,UT,Utah
+4970850,South Jordan,city,49,UT,Utah
+4975360,Taylorsville,city,49,UT,Utah
+4982950,West Jordan,city,49,UT,Utah
+4983470,West Valley City,city,49,UT,Utah
+5010675,Burlington,city,50,VT,Vermont
+5101000,Alexandria,city,51,VA,Virginia
+5114968,Charlottesville,city,51,VA,Virginia
+5116000,Chesapeake,city,51,VA,Virginia
+5121344,Danville,city,51,VA,Virginia
+5135000,Hampton,city,51,VA,Virginia
+5135624,Harrisonburg,city,51,VA,Virginia
+5138424,Hopewell,city,51,VA,Virginia
+5144984,Leesburg,city,51,VA,Virginia
+5147672,Lynchburg,city,51,VA,Virginia
+5149784,Martinsville,city,51,VA,Virginia
+5156000,Newport News,city,51,VA,Virginia
+5157000,Norfolk,city,51,VA,Virginia
+5161832,Petersburg,city,51,VA,Virginia
+5164000,Portsmouth,city,51,VA,Virginia
+5167000,Richmond,city,51,VA,Virginia
+5168000,Roanoke,city,51,VA,Virginia
+5176432,Suffolk,city,51,VA,Virginia
+5182000,Virginia Beach,city,51,VA,Virginia
+5303180,Auburn,city,53,WA,Washington
+5305210,Bellevue,city,53,WA,Washington
+5305280,Bellingham,city,53,WA,Washington
+5308850,Burien,city,53,WA,Washington
+5322640,Everett,city,53,WA,Washington
+5323515,Federal Way,city,53,WA,Washington
+5335275,Kennewick,city,53,WA,Washington
+5335415,Kent,city,53,WA,Washington
+5335940,Kirkland,city,53,WA,Washington
+5336745,Lacey,city,53,WA,Washington
+5338038,Lakewood,city,53,WA,Washington
+5343955,Marysville,city,53,WA,Washington
+5351300,Olympia,city,53,WA,Washington
+5353545,Pasco,city,53,WA,Washington
+5357535,Redmond,city,53,WA,Washington
+5357745,Renton,city,53,WA,Washington
+5358235,Richland,city,53,WA,Washington
+5361115,Sammamish,city,53,WA,Washington
+5363000,Seattle,city,53,WA,Washington
+5363960,Shoreline,city,53,WA,Washington
+5367000,Spokane,city,53,WA,Washington
+5367167,Spokane Valley,city,53,WA,Washington
+5370000,Tacoma,city,53,WA,Washington
+5374060,Vancouver,city,53,WA,Washington
+5380010,Yakima,city,53,WA,Washington
+5414600,Charleston,city,54,WV,West Virginia
+5455756,Morgantown,city,54,WV,West Virginia
+5502375,Appleton,city,55,WI,Wisconsin
+5511950,Caledonia,city,55,WI,Wisconsin
+5519775,De Pere,city,55,WI,Wisconsin
+5522300,Eau Claire,city,55,WI,Wisconsin
+5531000,Green Bay,city,55,WI,Wisconsin
+5531175,Greenfield,city,55,WI,Wisconsin
+5537825,Janesville,city,55,WI,Wisconsin
+5539225,Kenosha,city,55,WI,Wisconsin
+5540775,La Crosse,city,55,WI,Wisconsin
+5548000,Madison,city,55,WI,Wisconsin
+5553000,Milwaukee,city,55,WI,Wisconsin
+5558800,Oak Creek,city,55,WI,Wisconsin
+5560500,Oshkosh,city,55,WI,Wisconsin
+5566000,Racine,city,55,WI,Wisconsin
+5567200,Rhinelander,city,55,WI,Wisconsin
+5584250,Waukesha,city,55,WI,Wisconsin
+5585300,West Allis,city,55,WI,Wisconsin
+5613150,Casper,city,56,WY,Wyoming
+5613900,Cheyenne,city,56,WY,Wyoming
+0900126620,Fairfield,city,09,CT,Connecticut
+0900133620,Greenwich,city,09,CT,Connecticut
+0900174190,Stratford,city,09,CT,Connecticut
+0900310100,Burlington,city,09,CT,Connecticut
+0900322630,East Hartford,city,09,CT,Connecticut
+0900344700,Manchester,city,09,CT,Connecticut
+0900382590,West Hartford,city,09,CT,Connecticut
+0900502760,Barkhamsted,city,09,CT,Connecticut
+0900537280,Harwinton,city,09,CT,Connecticut
+0900543370,Litchfield,city,09,CT,Connecticut
+0900551350,New Hartford,city,09,CT,Connecticut
+0900554030,North Canaan,city,09,CT,Connecticut
+0900566420,Salisbury,city,09,CT,Connecticut
+0900586440,Winchester,city,09,CT,Connecticut
+0900935650,Hamden,city,09,CT,Connecticut
+2502109175,Brookline,city,25,MA,Massachusetts
+2502328495,Hanson,city,25,MA,Massachusetts
+2502354310,Plymouth,city,25,MA,Massachusetts
+2502379530,Whitman,city,25,MA,Massachusetts
+2609916520,Clinton,city,26,MI,Michigan
+2609950480,Macomb,city,26,MI,Michigan
+2609972820,Shelby,city,26,MI,Michigan
+2612584240,Waterford,city,26,MI,Michigan
+2612585480,West Bloomfield,city,26,MI,Michigan
+2613931880,Georgetown,city,26,MI,Michigan
+2616189160,Ypsilanti,city,26,MI,Michigan
+2616313120,Canton,city,26,MI,Michigan
+3400712280,Cherry Hill,city,34,NJ,New Jersey
+3400726760,Gloucester,city,34,NJ,New Jersey
+3401306260,Bloomfield,city,34,NJ,New Jersey
+3401313045,City of Orange,city,34,NJ,New Jersey
+3401334450,Irvington,city,34,NJ,New Jersey
+3401340890,Livingston,city,34,NJ,New Jersey
+3401343800,Maplewood,city,34,NJ,New Jersey
+3401379800,West Orange,city,34,NJ,New Jersey
+3401752470,North Bergen,city,34,NJ,New Jersey
+3402129310,Hamilton,city,34,NJ,New Jersey
+3402315550,Cranbury,city,34,NJ,New Jersey
+3402320230,Edison,city,34,NJ,New Jersey
+3402354705,Old Bridge,city,34,NJ,New Jersey
+3402359010,Piscataway,city,34,NJ,New Jersey
+3402382000,Woodbridge,city,34,NJ,New Jersey
+3402533300,Howell,city,34,NJ,New Jersey
+3402545990,Middletown,city,34,NJ,New Jersey
+3402749080,Mount Olive,city,34,NJ,New Jersey
+3402756460,Parsippany-Troy Hills,city,34,NJ,New Jersey
+3402907420,Brick,city,34,NJ,New Jersey
+3402934680,Jackson,city,34,NJ,New Jersey
+3402938550,Lakewood,city,34,NJ,New Jersey
+3402941250,Long Beach,city,34,NJ,New Jersey
+3402970320,Stafford,city,34,NJ,New Jersey
+3402973125,Toms River,city,34,NJ,New Jersey
+3403177840,Wayne,city,34,NJ,New Jersey
+3403505560,Bernards,city,34,NJ,New Jersey
+3403524900,Franklin,city,34,NJ,New Jersey
+3403531890,Hillsborough,city,34,NJ,New Jersey
+3403547580,Montgomery,city,34,NJ,New Jersey
+3403974480,Union,city,34,NJ,New Jersey
+3600117343,Colonie,city,36,NY,New York
+3600776056,Union,city,36,NY,New York
+3602902000,Amherst,city,36,NY,New York
+3602915011,Cheektowaga,city,36,NY,New York
+3602931654,Hamburg,city,36,NY,New York
+3602975000,Tonawanda,city,36,NY,New York
+3605530290,Greece,city,36,NY,New York
+3605537726,Irondequoit,city,36,NY,New York
+3605934000,Hempstead Town,city,36,NY,New York
+3605953000,North Hempstead,city,36,NY,New York
+3605956000,Oyster Bay,city,36,NY,New York
+3606716067,Clay,city,36,NY,New York
+3608715968,Clarkstown,city,36,NY,New York
+3608760510,Ramapo,city,36,NY,New York
+3610304000,Babylon,city,36,NY,New York
+3610310000,Brookhaven,city,36,NY,New York
+3610337000,Huntington,city,36,NY,New York
+3610338000,Islip,city,36,NY,New York
+3610368000,Smithtown,city,36,NY,New York
+3610368473,Southampton,city,36,NY,New York
+3611930367,Greenburgh,city,36,NY,New York
+4201705616,Bensalem,city,42,PA,Pennsylvania
+4201708768,Bristol,city,42,PA,Pennsylvania
+4204345056,Lower Paxton,city,42,PA,Pennsylvania
+4204533144,Haverford,city,42,PA,Pennsylvania
+4204579000,Upper Darby,city,42,PA,Pennsylvania
+4204949548,Millcreek,city,42,PA,Pennsylvania
+4209100156,Abington,city,42,PA,Pennsylvania
+4209144976,Lower Merion,city,42,PA,Pennsylvania
+5000304825,Bennington,city,50,VT,Vermont
