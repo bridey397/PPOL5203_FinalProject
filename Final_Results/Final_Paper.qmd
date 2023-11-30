@@ -1,6 +1,6 @@
 ---
 title: "Final Paper"
-format: html
+format: pdf
 editor: visual
 author: Bridgette Sullivan, Holt Cochran, Katharyn Loweth
 ---
@@ -12,5 +12,11 @@ author: Bridgette Sullivan, Holt Cochran, Katharyn Loweth
 ### Methods
 
 ### Results
+
+```{python}
+
+
+```
+
 
 ### Next Steps
