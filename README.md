@@ -24,11 +24,15 @@ Not included is the NRI shape file used for the GIS models because the file size
 
 `NRI_county_health_data_southeast.csv`: dataset that is a subset of the `NRI_county_health_data.csv` that only contains observations of the SE region of the United States (from Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee, West Virginia, and Virginia)
 
+`NRI_county_health_data_predictions.csv`: dataset that includes the predicted outcomes for specified health metrics of each county in the United States. Columns indicate and predict f a county is above or below the national average in Life Expectancy, Age-Adjusted Death Rate, Average Number of Physically Unhealthy Days, and Average Number of Mentally Unhealthy Days.
+
+`NRI_county_health_data_predictions_southeast.csv`: similar to `NRI_county_health_data_predictions` except the data is subsetted to only include the predictions of health metrics for counties in the southeast.
+
 
 
 ## Python_Code
 
-`Data_Cleaning_2.0.ipynb`: file that contains the python code used to pull the select columns of interest from each original dataset and merge on the FIPS variable, create new variables that will be part of the analysis, and reorder the columns for ease of use. Creates and saves the files `NRI_county_health_data.csv` and `NRI_county_health_data_southeast.csv`
+`Data_Cleaning.ipynb`: file that contains the python code used to pull the select columns of interest from each original dataset and merge on the FIPS variable, create new variables that will be part of the analysis, and reorder the columns for ease of use. Creates and saves the files `NRI_county_health_data.csv` and `NRI_county_health_data_southeast.csv`
 
 `GIS_Models.ipynb`: file that contains the python code to create GIS models that visualize the distribution of the FEMA risk scores and how they relate to the public health outcomes. 
 
@@ -38,7 +42,7 @@ Not included is the NRI shape file used for the GIS models because the file size
 
 `OLS_Models_RiskScore_Breakdown.ipynb`: Contains OLS models that include the three components of the composite score as individual variables (Annual Economic Loss, Social Vulnerabilities, and Community Resilience) for both the National and Southeast datasets.
 
-`Machine_Learning.ipynb` (not yet created)
+`Machine_Learning.ipynb`: file that contains the python code for exploring different machine learning models and creating the decision tree models that were used for predictions and analysis. Calculates the overall accuracy of each model. Predicts if counties are above or below the national average in Life Expectancy, Age-Adjusted Death Rate, Average Number of Physically Unhealthy Days, and Average Number of Mentally Unhealthy Days. 
 
 
 ## Final_Results
