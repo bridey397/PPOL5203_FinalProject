@@ -78,6 +78,10 @@ Not included is the NRI shape file used for the GIS models because the file size
 
 `Mentally_Unhealthy_Days_Scatterplot_SE_Only.png`: Image with scatterplot showing the relationship between Risk Score and Average Number of Mentally Unhealthy Days at a Southeast region level.
 
-`PPOL5203_RegressionSummaryTable.png`: Image with regression outputs from various OLS models using Health Outcomes as dependent variables.
+`PPOL5203_RegressionSummaryTable.png`: Table with regression outputs from various OLS models using Health Outcomes as dependent variables.
+
+`risk_score_calculation`: Image displaying risk score calculation from FEMA's website.
 
 `SE_RiskScore_Density_Plot.png`: Image displaying a density plot of risk scores by community type in the southeast region.
+
+`table_2_machine_learning_accuracy`: Table with overall accuracy percentages for each machine learning model and accuracy percentages by community type.
