@@ -32,9 +32,11 @@ Not included is the NRI shape file used for the GIS models because the file size
 
 `GIS_Models.ipynb`: file that contains the python code to create GIS models that visualize the distribution of the FEMA risk scores and how they relate to the public health outcomes. 
 
-`OLS_Models_AllData.ipynb`: file that contains the python code to create OLS models based on `NRI_county_health_data.csv` to help better understand the relationship between the NRI composite risk score and 4 dependent health variables: Life Expectancy, Age-Adjusted Death Rate, Average Number of Physically Unhealthy Days, and Average Number of Mentally Unhealthy Days. Also contains OLS models that include the three components of the composite score as individual variables (Annual Economic Loss, Social Vulnerabilities, and Community Resilience)
+`OLS_Models_National_Data.ipynb`: file that contains the python code to create OLS models based on `NRI_county_health_data.csv` to help better understand the relationship between the NRI composite risk score and 4 dependent health variables: Life Expectancy, Age-Adjusted Death Rate, Average Number of Physically Unhealthy Days, and Average Number of Mentally Unhealthy Days. 
 
-`OLS_Models_Southeast.ipynb` (not yet created) Similar to `OLS_Models_AllData.ipynb` but contains all OLS models that are based on the `NRI_county_health_data_southeast.csv` dataset.
+`OLS_Models_SE_Data_only.ipynb`: Similar to `OLS_Models_AllData.ipynb` but contains all OLS models that are based on the `NRI_county_health_data_southeast.csv` dataset.
+
+`OLS_Models_RiskScore_Breakdown.ipynb`: Contains OLS models that include the three components of the composite score as individual variables (Annual Economic Loss, Social Vulnerabilities, and Community Resilience) for both the National and Southeast datasets.
 
 `Machine_Learning.ipynb` (not yet created)
 
