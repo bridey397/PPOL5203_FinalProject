@@ -8,13 +8,13 @@ Final project for PPOL5203
 
 ### Orig_Data
 
-`2023_County_Health_Rankings_Data.xlsx`
+`2023_County_Health_Rankings_Data.xlsx`: Dataset from the University of Wisconsin Population Health Institute. The County Health Rankings measures the health of nearly all counties in the United States and includes demographic information, health metrics such as age-adjusted death rate, and social determinants of health. 
 
 `NRIDataDictionary.csv`: FEMA's data dictionary for the `NRI_Table_Counties.csv` file. Describes each variable, its file type, and its version date
 
 `NRI_HazardInfo.csv`: FEMA's description of each natural hazard accounted for in the `NRI_Table_Counties.csv` file and the years they have annual data on each natural hazard.
 
-`NRI_Table_Counties.csv`
+`NRI_Table_Counties.csv`: The FEMA National Risk Index (NRI) is a multifaceted score that considers a U.S. county's expected risk to 18 different types of natural hazards. Nearly all U.S. counties have an overall composite risk score (RISK_SCORE) and risk rating for all 18 natural hazards, plus the overall Expected Annual Loss, Social Vulnerability, and Community Resilience scores and ratings. The FEMA NRI dataset also provided these data points for each natural hazard. 
 
 Not included is the NRI shape file used for the GIS models because the file size exceeded the GitHub limit
 
