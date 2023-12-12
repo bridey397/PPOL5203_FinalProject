@@ -58,14 +58,25 @@ Not included is the NRI shape file used for the GIS models because the file size
 ### Figures
 
 `gis_age_adjusted_death_rate_accuracy_southeast.jpg`: Image with GIS results for Age-Adjusted Death Rate machine learning accuracy. (Green = Correct, Yellow = Incorrect)
+
 `gis_age_adjusted_death_rate_prediction_southeast.jpg`: Image with GIS results for Age-Adjusted Death Rate machine learning prediction. (Green = Below Average, Red = Above Average)
+
 `gis_life_expectancy_accuracy_southeast.jpg`: Image with GIS results for Life Expectancy machine learning accuracy. (Green = Correct, Yellow = Incorrect)
+
 `gis_life_expectancy_prediction_southeast.jpg`: Image with GIS results for Life Expectancy machine learning prediction. (Green = Above Average, Red = Below Average)
+
 `gis_mental_health_accuracy_southeast.jpg`: Image with GIS results for Average Number of Mentally Unhealthy Days machine learning accuracy. (Green = Correct, Yellow = Incorrect)
+
 `gis_mental_health_prediction_southeast.jpg`: Image with GIS results for Average Number of Mentally Unhealthy Days machine learning prediction. (Green = Below Average, Red = Above Average)
+
 `gis_physical_health_accuracy_southeast.jpg`: Image with GIS results for Average Number of Physically Unhealthy Days machine learning accuracy. (Green = Correct, Yellow = Incorrect)
+
 `gis_physical_health_prediction_southeast.jpg`: Image with GIS results for Average Number of Phyiscally Unhealthy Days machine learning prediction. (Green = Below Average, Red = Above Average)
+
 `Mentally_Unhealthy_Days_Scatterplot_AllData.png`: Image with scatterplot showing the relationship between Risk Score and Average Number of Mentally Unhealthy Days at a national level.
+
 `Mentally_Unhealthy_Days_Scatterplot_SE_Only.png`: Image with scatterplot showing the relationship between Risk Score and Average Number of Mentally Unhealthy Days at a Southeast region level.
+
 `PPOL5203_RegressionSummaryTable.png`: Image with regression outputs from various OLS models using Health Outcomes as dependent variables.
+
 `SE_RiskScore_Density_Plot.png`: Image displaying a density plot of risk scores by community type in the southeast region.
