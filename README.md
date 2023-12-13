@@ -3,6 +3,7 @@ Final project for PPOL5203
 
 
 # Climate Impact on Health in Varying Community Types
+This repository aims to explore how climate risk impacts health outcomes in varying community types. Please read the following to learn more about reserach proposal, datasets used, how data was cleaned, methodologies utilized, and final results.
 
 ## Datasets
 
@@ -49,7 +50,7 @@ Not included is the NRI shape file used for the GIS models because the file size
 
 ### Final_Paper_files
 
-`final_paper.pdf`
+`final_paper.pdf`: Final Research Paper detailing motivation, research questions, data sources, data cleaning & wrangling, methods & analysis, results, and discussion on how climate risk impacts health outcomes in varying community types. Authors include Bridgette Sullivan, Holt Cochran, and Katharyn Loweth. 
 
 ### Final_Presentation files
 
